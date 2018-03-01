@@ -40,3 +40,5 @@ When the tests are properly loaded, simply press CTRL+T (or CMD+T on mac) to cyc
 
 
 note: for each file, the appropriate source code will be called either prog1.asm, prog2.asm, or test3.asm
+
+by: conner, jay, tj, and dan
