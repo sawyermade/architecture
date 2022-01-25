@@ -1,3 +1,5 @@
+YouTube Video: https://www.youtube.com/watch?v=I6fKkwPYaUg
+
 Readme with processor:
 
 The instruction memory and data memory are ram modules. In order to load the proper tests:
